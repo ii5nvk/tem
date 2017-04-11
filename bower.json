@@ -1,0 +1,7 @@
+{
+  "name": "template",
+  "dependencies": {
+    "normalize-css": "normalize.css#^6.0.0",
+    "owl.carousel": "^2.2.1"
+  }
+}
